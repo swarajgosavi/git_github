@@ -1,0 +1,2 @@
+Git is a very essential tool !!
+This is commit2 !!
